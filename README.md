@@ -1,4 +1,2 @@
-# samara_dataforgood
-Data For Good Datathon
-
+# Samara Data for Good Datathon
 Scrapes Reuters for news headlines every day back to 2007
