@@ -1,3 +1,3 @@
-Scrapes Reuters for news headlines every day back to 2007
 
-Written at Data for Good datathon
+# Written at Data for Good datathon 
+http://www.meetup.com/DataforGood/events/218482002/
